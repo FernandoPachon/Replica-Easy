@@ -1,0 +1,15 @@
+{
+  "store.home": {
+    "title":"Home",
+    "blocks": [
+      //"responsive-layout.desktop", 
+      //"responsive-layout.mobile",
+      "slider-layout#home_slider--children",
+      "rich-text#seccion_pinturas",
+      "flex-layout.row#home_section--pinturas",
+      "rich-text#seccion_colores",
+      "flex-layout.row#home_section--vinilos",
+      "flex-layout.row#home_section--one"
+    ]
+  }
+}

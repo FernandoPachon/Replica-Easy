@@ -1,0 +1,88 @@
+{
+    "flex-layout.row#home_section--vinilos":{
+    "title":"Sección Vinilos",
+    "children": [
+      "flex-layout.row#section--one--vinilo"
+    
+    ],
+    "props":{
+      "blocksClass":"home_section--vinilos",
+      "colSizing":"auto"
+    }
+  },
+  "flex-layout.row#section--one--vinilo":{
+    "children":[
+      "image#vinilo--one"
+    ],
+    "props":{
+      "blocksClass":"section_one--image"
+    }
+  },
+  "slider-layout#vinilos_slider": {
+    "title":"Slider con hijos declarados", 
+    "props": {
+      "itemsPerPage": {
+        "desktop": 1,
+        "tablet": 1,
+        "mobile": 1
+      },
+      "infinite": true,
+      "blockClass": "vinilos_slider",
+      "autoplay": {
+        "timeout": 3000,
+        "stopOnHover": true
+      }
+    },
+    "children": [
+ 
+      "image#vinilos_slider--one",
+      "image#vinilos_slider--two",
+      "image#vinilos_slider--three",
+      "image#vinilos_slider--four",
+      "image#vinilos_slider--five",
+      "image#vinilos_slider--six",
+      "image#vinilos_slider--seven",
+      "image#vinilos_slider--eigth"
+    ]
+  },
+  "image#vinilos_slider--one": {
+    "props": {
+      "src": "assets/img/vinilo-buganvilla.jpg"
+    }
+  },
+  "image#vinilos_slider--two": {
+    "props": {
+      "src": "assets/img/slider2.jpg"
+    }
+  },
+  "image#vinilos_slider--three": {
+    "props": {
+      "src": "assets/img/slider3.jpg"
+    }
+  },
+  "image#vinilos_slider--four": {
+    "props": {
+      "src": "assets/img/slider4.jpg"
+    }
+  },
+  "image#vinilos_slider--five": {
+    "props": {
+      "src": "assets/img/slider5.jpg"
+    }
+  },
+  "image#vinilos_slider--six": {
+    "props": {
+      "src": "assets/img/slider6.jpg"
+    }
+  },
+  "image#vinilos_slider--seven": {
+    "props": {
+      "src": "assets/img/slider7.jpg"
+    }
+  },
+  "image#vinilos_slider--eigth": {
+    "props": {
+      "src": "assets/img/slider8.jpg"
+    }
+}
+}
