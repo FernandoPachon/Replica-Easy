@@ -1,6 +1,6 @@
 {
-    "responsive-layout.desktop":{
-     "children":[  
+  "responsive-layout.tablet": {
+    "children": [
       "slider-layout#desktop_slider--children",
       "rich-text#desktop_cyberlunes",
       "flex-layout.row#desktop_section--cyberlunes",
@@ -20,5 +20,10 @@
       "modal-trigger#desktop_modal--children"
       // "modal-trigger#home_modal--event"
     ]
-    }
+  }
+  
+      
+      
+    
+ 
 }

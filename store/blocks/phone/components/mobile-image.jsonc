@@ -1,0 +1,72 @@
+{
+    "image#home--image-":{
+        "title":"Imagen de Home",
+        "props":{
+            "src":"assets/img/logo-easy.jpg",
+            "maxWidth":100,
+            "title":"Tiendas ",
+            "blocksClass":"Tiendas_image",
+            "link":{
+                "url":"https://www.easy.com.co",
+                "newTab": true,
+                "atributeNoFollow": true
+            }
+        }
+    },
+    "image#pintura--one-mobile":{
+        "title":"",
+        "props":{
+            "src":"assets/img/pintura1.jpg",
+            "maxWidth":100,
+            "title":"Pinturas",
+            "blocksClass":"Pinturas_image",
+            "link":{
+                "url":"#",
+                "newTab":true,
+                "atributeNoFollow":true
+            }
+        }
+    },
+"image#pintura--two-mobile":{
+    "title":"",
+    "props":{
+        "src":"assets/img/pintura2.jpg",
+        "maxWidth":100,
+        "title":"Pinturas",
+        "blocksClass":"Pinturas_image",
+        "link":{
+            "url":"#",
+            "newTab":true,
+            "atributeNoFollow":true
+        }
+    }
+},
+"image#pintura--three-mobile":{
+    "title":"",
+    "props":{
+        "src":"assets/img/pintura3.jpg",
+        "maxWidth":100,
+        "title":"Pinturas",
+        "blocksClass":"Pinturas_image",
+        "link":{
+            "url":"#",
+            "newTab":true,
+            "atributeNoFollow":true
+        }
+    }
+},
+"image#vinilo--one":{
+    "title":"",
+    "props":{
+        "src":"assets/img/pintuco.jpg",
+        "maxWidth":400,
+        "title":"Pinturas",
+        "blocksClass":"Pinturas_image",
+        "link":{
+            "url":"#",
+            "newTab":true,
+            "atributeNoFollow":true
+        }
+    }
+}
+}

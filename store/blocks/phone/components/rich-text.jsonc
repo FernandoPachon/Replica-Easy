@@ -1,0 +1,22 @@
+{
+    "rich-text#seccion_pinturas-mobile":{
+        "props": {
+            "textAlignment": "LEFT",
+            "textPosition": "LEFT",
+            "text": "La vida es más bonita a todo color",
+            "textColor": "black",
+            "font": "Opensans-Bold.ttf",
+            "blockClass": "help-message"
+          }
+    },
+    "rich-text#seccion_colores-mobile":{
+        "props": {
+            "textAlignment": "LEFT",
+            "textPosition": "LEFT",
+            "text": "Los colores ideales para tu hogar",
+            "textColor": "black",
+            "font": "Opensans-Bold.ttf",
+            "blockClass": "help-message"
+          }
+    }
+}

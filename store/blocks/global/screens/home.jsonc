@@ -2,18 +2,11 @@
   "store.home": {
     "title":"Home",
     "blocks": [
-      "slider-layout#home_slider--children",
-      "responsive-layout.desktop"
-    ]
-  },
-  "responsive-layout.desktop":{
-    "children":[
-      
-      "rich-text#seccion_pinturas",
-      "flex-layout.row#home_section--pinturas",
-      "rich-text#seccion_colores",
-      "flex-layout.row#home_section--vinilos",
-      "flex-layout.row#home_section--one"
+      "responsive-layout.desktop",
+      "responsive-layout.mobile",
+      "responsive-layout.phone",
+      "responsive-layout.tablet"
+
     ]
   }
  

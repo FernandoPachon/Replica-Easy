@@ -1,0 +1,19 @@
+{
+  "responsive-layout.phone": {
+    "children": [
+      // "slider-layout#mobile_slider--children",
+      // "rich-text#seccion_pinturas-mobile",
+      // "flex-layout.row#home_section--pinturas-mobile",
+      // "rich-text#seccion_colores-mobile",
+      // "flex-layout.row#home_section--vinilos-mobile",
+      // "flex-layout.row#home_section--one-mobile",
+      // "modal-trigger#mobile_modal--children",
+      "responsive-layout.phone#home_info--phone"
+    ]
+  }
+  
+      
+      
+    
+ 
+}
