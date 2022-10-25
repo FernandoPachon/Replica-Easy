@@ -1,0 +1,117 @@
+{
+    "slider-layout#m_slider--children": {
+      "title":"Slider con hijos declarados", 
+      "props": {
+        "itemsPerPage": {
+          "desktop": 1,
+          "tablet": 1,
+          "mobile": 1
+        },
+        "infinite": true,
+        "blockClass": "home_slider",
+        "autoplay": {
+          "timeout": 3000,
+          "stopOnHover": true
+        }
+      },
+      "children": [
+   
+        "image#m_slider--one",
+        "image#m_slider--two",
+        "image#m_slider--three",
+        "image#m_slider--four",
+        "image#m_slider--five"
+        /* "image#m_slider--six",
+        "image#m_slider--seven",
+        "image#m_slider--eigth",
+        "image#m_slider--nine",
+        "image#m_slider--ten"
+        */
+      ]
+    },
+    "image#m_slider--one": {
+      "props": {
+      //  "src": "assets/images/slider-d-1.jpg"
+      }
+    },
+    "image#m_slider--two": {
+      "props": {
+      //  "src": "assets/images/slider-d-2.jpg"
+      }
+    },
+    "image#m_slider--three": {
+      "props": {
+     //   "src": "assets/images/slider-d-3.jpg"
+      }
+    },
+    "image#m_slider--four": {
+      "props": {
+    //    "src": "assets/images/slider-d-4.jpg"
+      }
+    },
+    "image#m_slider--five": {
+      "props": {
+      //  "src": "assets/images/slider-d-5.jpg"
+      }
+    },
+    "image#m_slider--six": {
+      "props": {
+       // "src": "assets/img/slider-d-6.jpg"
+      }
+    },
+    "image#m_slider--seven": {
+      "props": {
+        //"src": "assets/img/slider-d-7.jpg"
+      }
+    },
+    "image#m_slider--eigth": {
+      "props": {
+       // "src": "assets/img/slider-d-8.jpg"
+      }
+    },
+    "image#m_slider--nine": {
+      "props": {
+       // "src": "assets/img/slider-d-9.jpg"
+      }
+    },
+    "image#m_slider--ten": {
+      "props": {
+       // "src": "assets/img/slider-d-10.jpg"
+      }
+    },
+   
+    "list-context.image-list#home-m_slider--list":{
+      "title":"lista de imágenes",
+      "children": ["slider-layout#home_slider--list"],
+      "props": {
+        "preload":true,
+        "images":[
+          {
+           // "image":"assets/img/main-slide-1.jpg",
+            "description":"slide 1"
+          },
+          {
+          //  "image":"assets/img/main-slide-2.jpg",
+            "description":"slide 2"
+          },
+          {
+          //  "image":"assets/img/main-slide-3.jpg",
+            "description":"slide 3"
+          }
+        ]
+      }
+    },
+   "slider-layout#home-m_slider--list":{
+    "title":"slider con lista",
+    "props": {
+      "itemsPerPage": {
+        "desktop": 1,
+        "tablet": 1,
+        "mobile": 1
+      },
+      "infinite": true,
+      "blockClass": "home_slider"
+    }
+   }
+  }
+  

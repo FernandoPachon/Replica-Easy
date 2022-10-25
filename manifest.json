@@ -1,6 +1,6 @@
 {
   "vendor": "itgloberspartnercl",
-  "name": "prueva",
+  "name": "store-theme",
   "version": "0.0.1",
   "builders": {
     "assets": "0.x",
