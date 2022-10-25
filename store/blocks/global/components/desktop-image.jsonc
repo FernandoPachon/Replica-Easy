@@ -162,7 +162,7 @@
   },
   "image#baños--one":{
     "props": {
-     // "src": "assets/images/baños-1.jpg",
+      "src": "assets/images/renueva-1.png",
       "maxWidth": 400,
       "title": "baños",
       "blocksClass": "baños_image",
@@ -175,7 +175,7 @@
   },
   "image#baños--two":{
     "props": {
-      //"src": "assets/images/baños-2.jpg",
+      "src": "assets/images/renueva-2.png",
       "maxWidth": 400,
       "title": "baños",
       "blocksClass": "baños_image",
@@ -188,8 +188,8 @@
   },
   "image#baños--three":{
     "props": {
-      //"src": "assets/images/baños-3.jpg",
-      "maxWidth": 400,
+      "src": "assets/images/renueva-3.png",
+      "maxWidth": 1200,
       "title": "baños",
       "blocksClass": "baños_image",
       "link": {

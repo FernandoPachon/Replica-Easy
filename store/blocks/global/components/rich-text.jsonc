@@ -23,7 +23,7 @@
         "props":{
             "textAlignment": "LEFT",
             "textPosition": "LEFT",
-            "text": "               No te pierdas el Cyberlunes",
+            "text": "No te pierdas el Cyberlunes",
             "textColor": "black",
             "font": "fa-brands-400.woff2",
             "blockClass": "texto-cyberlunes"
@@ -53,10 +53,10 @@
         "props":{
             "textAlignment": "LEFT",
             "textPosition": "LEFT",
-            "text": "Renueva tus Baños y Cocinas",
+            "text": "Dale un nuevo look a tus espacios",
             "textColor": "black",
             "font": "fa-brands-400.woff2",
-            "blockClass": "texto-look"
+            "blockClass": "texto-baños"
         }
     },
     "rich-text#home_hogar":{
@@ -66,7 +66,7 @@
             "text": "easy, donde se renueva tu hogar",
             "textColor": "black",
             "font": "fa-brands-400.woff2",
-            "blockClass": "texto-look"
+            "blockClass": "texto-hogar"
         }
     }
 }

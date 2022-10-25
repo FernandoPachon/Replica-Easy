@@ -62,7 +62,7 @@
         "header-row#header_middle": {
           "title": "Header medio",
           "children": [
-            
+            "drawer#header_mobile--menu"
           ],
           "props": {
             "blockClass": "header_middle"

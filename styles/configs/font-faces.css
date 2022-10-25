@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Open-Sans';
+    src: url(assets/fonts/OpenSans.woff2), url(assets/fonts/OpenSans.ttf);
+    font-weight: bold;
+  }

@@ -12,8 +12,8 @@
            "flex-layout.row#home_section--vinilos",
            "rich-text#home_pinturas",
           "flex-layout.row#home_section--pinturas",
-          // "rich-text#home_baños",
-           //"flex-layout.row#home_section--baños",
+           "rich-text#home_baños",
+           "flex-layout.row#home_section--baños",
            "rich-text#home_hogar",
            "flex-layout.row#home_section--descubre-mas"
            //"flex-layout.row#home_section--one",
